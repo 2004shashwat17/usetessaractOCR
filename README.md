@@ -1,3 +1,5 @@
+want to reach me -> shashwats500@gmail.com
+
 About Tesseract OCR -> 
 Tesseract OCR (Optical Character Recognition) is an open-source OCR engine that converts images of text — including handwriting and printed text — into machine-readable text.
 
